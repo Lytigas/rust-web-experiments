@@ -1,0 +1,8 @@
+[package]
+name = "client"
+version = "0.1.0"
+authors = ["Josh Hejna <josh.hejna@gmail.com>"]
+
+[dependencies]
+stdweb = "0.4.9"
+yew = {git = "https://github.com/DenisKolodin/yew"}
